@@ -37,7 +37,7 @@ Find tools, tips, and additional resources for working effectively with SQL:
 - **Cloud and Database Management Platforms**  
 - **Tips for Optimizing SQL Performance**  
 
-[Explore Tools and Resources](other-resources-tools-2025.md)  
+[Explore Tools and Resources](other-resources-and-tools.md)  
 
 ---
 
