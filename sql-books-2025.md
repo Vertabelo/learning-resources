@@ -60,7 +60,13 @@ This list features the **most practical and insightful SQL books** for learners 
   Discover techniques to communicate data insights effectively through visualization.  
 
 - **[Business Analytics: The Science of Data-Driven Decision Making](https://www.amazon.com/Business-Analytics-Science-Data-Driven-Decision-ebook/dp/B075XLZY23/)**  
-  Combine SQL knowledge with business analytics for smarter decision-making.  
+  Combine SQL knowledge with business analytics for smarter decision-making.
+
+- **[SQL Query Design Patterns and Best Practices](https://www.packtpub.com/en-in/product/sql-query-design-patterns-and-best-practices-9781837630080?utm_source=datasciencevertical&utm_medium=crossposting&utm_campaign=%249.99platformdistribution&utm_id=%249.99platformdistribution&utm_term=%249.99platformdistribution&utm_content=%249.99platformdistribution)**
+  A practical guide to writing readable and maintainable SQL queries using its design patterns
+   
+- **[Data Wrangling with SQL](https://www.packtpub.com/en-in/product/data-wrangling-with-sql-9781837634309?utm_source=datasciencevertical&utm_medium=crossposting&utm_campaign=%249.99platformdistribution&utm_id=%249.99platformdistribution&utm_term=%249.99platformdistribution&utm_content=%249.99platformdistribution)** 
+A hands-on guide to manipulating, wrangling, and engineering data using SQL 
 
 ---  
 
